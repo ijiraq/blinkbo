@@ -1,0 +1,17 @@
+*~
+#*#
+*.swp
+*pyc
+MANIFEST
+*.egg-info
+.coverage
+.sublime-*
+build
+dist
+.DS_Store
+*/payload.bsx
+*/payload.tgz
+*/cadcproxy.pem
+*.xml
+.idea/*
+.idea
